@@ -2,6 +2,6 @@ function happyHolidays(){
   return "Happy holidays!"
 }// write your code below!
 
-function happyHolidaysTo(name){
-  return `"Happy Holidays" $(name)`
+function happyHolidaysTo(you){
+  return `"Happy Holidays" $(you)`
 }
